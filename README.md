@@ -7,10 +7,10 @@ An app that allows you to browse different music channals all in one convient pl
 ## **Preview**
 
 ### *Intro*
-![plot](intro.png)
+![plot](image_readme/intro.png)
 
 ### *Main Interface*
-![plot](mainInterface.png)
+![plot](image_readme/mainInterface.png)
 
 ## Features ⭐ 
 
@@ -44,7 +44,7 @@ An app that allows you to browse different music channals all in one convient pl
 ```
 
 ### And your project will be run like this
-![plot](1.png)
+![plot](image_readme/1.png)
 
 ### You can open in host:
 ```css
