@@ -7,9 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-1.png
-intro.png
-mainInterface.png
 image_readme
 
 node_modules
