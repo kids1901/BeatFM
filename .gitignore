@@ -7,8 +7,11 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+1.png
+intro.png
+mainInterface.png
+
 node_modules
-imagesForReadMe
 .env
 dist
 dist-ssr
