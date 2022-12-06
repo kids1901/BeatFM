@@ -40,6 +40,11 @@ An app that allows you to browse different music channals all in one convient pl
 
 ### *Step 3*
 ```css
+    npm install
+```
+
+### *Step 4*
+```css
     npm run dev
 ```
 
